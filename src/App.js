@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Add your name here!!</h1>
+        <h2>Hi my name is Sughra </h2>
       </header>
     </div>
   );
